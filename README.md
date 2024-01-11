@@ -1,8 +1,8 @@
 # Words App
 
-Completed by: IMaeots
-Time completed: Spring 2023
-This folder contains the source code for the Words app codelab.
+* Completed by: IMaeots
+* Time completed: Spring 2023
+* This folder contains the source code for the Words app codelab.
 
 
 # Introduction
